@@ -1,0 +1,22 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+xcuserdata/
+
+# Local configuration
+*.xcconfig
+*.xcuserstate
+*.xccheckout
+*.xcodeproj/
+tflite-ios-inference.xcodeproj/*
+
+# Swift Package Manager
+.Package.resolved
+Package.pins
+.build/
+
+# CocoaPods
+Pods/
+Podfile.loc
+
